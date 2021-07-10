@@ -1,0 +1,67 @@
+.main {
+    div{
+        img{
+            cursor: crosshair;
+        }
+    }
+    .botton{
+        display: flex;
+        align-items: baseline;
+        background-color: #b8dde4;
+
+        .fase{
+            margin-bottom: 5px;
+            button{
+                margin-left: 250px;
+               
+                padding: 0;
+                border: none;
+                background: none;
+                font-weight: 500;
+                background: greenyellow;
+                color: #FFF;
+                padding: 0 32px;
+           
+                display: flex;
+                cursor: pointer;
+                align-items: center;;
+                height: 40px;
+                border-radius: 20px;
+
+                img{
+                    margin-right: 8px;
+                    height: 20px;
+                }
+            }
+        }
+        .Find{
+            font-size: 20px;
+            margin-right: 5px;
+        }
+        .encontrar{ 
+            display: flex;
+        align-items: center;
+        margin-right: 150px;
+       
+            
+    .Animais{
+            font-size: 20px;
+            font-family: 'Roboto';
+            font-weight: 550;
+        }
+
+        .separador{
+            font-size: 30px;
+            margin: 5px;
+            }
+
+        }
+        
+    } 
+    .achado{
+        text-decoration: line-through;
+        color: green;
+    }
+
+
+}
